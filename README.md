@@ -1,2 +1,3 @@
 Demo
-Description of the project.
+Description of the project!
+It's never too late 
